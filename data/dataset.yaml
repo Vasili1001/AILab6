@@ -1,0 +1,4 @@
+train: ../data/train
+val: ../data/test
+nc: 3
+names: ['apple', 'banana', 'orange']
